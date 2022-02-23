@@ -3,7 +3,7 @@
 <p>الشيفرة المصدرية الخاصة بمسار تطبيقات برمجية ضمن دورة "تطوير التطبيقات باستخدام لغة Python" المقدمة من أكاديمية حسوب</p>
 
 <div>
-<a href="https://academy.hsoub.com/learn/Python-application-development/">دورة تطوير التطبيقات باستخدام لغة Python</a>
+<a href="https://academy.hsoub.com/learn/python-application-development/">دورة تطوير التطبيقات باستخدام لغة Python</a>
 </div>
 <h2> المجلد Projects </h2>
 <p>يحتوي على شيفرات جميع التطبيقات العملية التي عملنا عليها في المسار.</p>
